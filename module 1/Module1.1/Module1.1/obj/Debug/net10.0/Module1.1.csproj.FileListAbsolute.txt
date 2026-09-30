@@ -1,0 +1,15 @@
+D:\.ПРАКТИКА программирование\модуль 1.1\Module1.1\Module1.1\bin\Debug\net10.0\Module1.1.exe
+D:\.ПРАКТИКА программирование\модуль 1.1\Module1.1\Module1.1\bin\Debug\net10.0\Module1.1.deps.json
+D:\.ПРАКТИКА программирование\модуль 1.1\Module1.1\Module1.1\bin\Debug\net10.0\Module1.1.runtimeconfig.json
+D:\.ПРАКТИКА программирование\модуль 1.1\Module1.1\Module1.1\bin\Debug\net10.0\Module1.1.dll
+D:\.ПРАКТИКА программирование\модуль 1.1\Module1.1\Module1.1\bin\Debug\net10.0\Module1.1.pdb
+D:\.ПРАКТИКА программирование\модуль 1.1\Module1.1\Module1.1\obj\Debug\net10.0\Module1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.ПРАКТИКА программирование\модуль 1.1\Module1.1\Module1.1\obj\Debug\net10.0\Module1.1.AssemblyInfoInputs.cache
+D:\.ПРАКТИКА программирование\модуль 1.1\Module1.1\Module1.1\obj\Debug\net10.0\Module1.1.AssemblyInfo.cs
+D:\.ПРАКТИКА программирование\модуль 1.1\Module1.1\Module1.1\obj\Debug\net10.0\Module1.1.csproj.CoreCompileInputs.cache
+D:\.ПРАКТИКА программирование\модуль 1.1\Module1.1\Module1.1\obj\Debug\net10.0\Module1.1.dll
+D:\.ПРАКТИКА программирование\модуль 1.1\Module1.1\Module1.1\obj\Debug\net10.0\refint\Module1.1.dll
+D:\.ПРАКТИКА программирование\модуль 1.1\Module1.1\Module1.1\obj\Debug\net10.0\Module1.1.pdb
+D:\.ПРАКТИКА программирование\модуль 1.1\Module1.1\Module1.1\obj\Debug\net10.0\Module1.1.genruntimeconfig.cache
+D:\.ПРАКТИКА программирование\модуль 1.1\Module1.1\Module1.1\obj\Debug\net10.0\ref\Module1.1.dll
+D:\.ПРАКТИКА программирование\модуль 1.1\Module1.1\Module1.1\obj\Debug\net10.0\Module1.1.csproj.Up2Date
