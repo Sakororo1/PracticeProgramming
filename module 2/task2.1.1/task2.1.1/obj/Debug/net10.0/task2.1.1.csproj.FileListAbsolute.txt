@@ -1,0 +1,15 @@
+D:\.ПРАКТИКА программирование\Module 2\task2.1.1\task2.1.1\bin\Debug\net10.0\task2.1.1.exe
+D:\.ПРАКТИКА программирование\Module 2\task2.1.1\task2.1.1\bin\Debug\net10.0\task2.1.1.deps.json
+D:\.ПРАКТИКА программирование\Module 2\task2.1.1\task2.1.1\bin\Debug\net10.0\task2.1.1.runtimeconfig.json
+D:\.ПРАКТИКА программирование\Module 2\task2.1.1\task2.1.1\bin\Debug\net10.0\task2.1.1.dll
+D:\.ПРАКТИКА программирование\Module 2\task2.1.1\task2.1.1\bin\Debug\net10.0\task2.1.1.pdb
+D:\.ПРАКТИКА программирование\Module 2\task2.1.1\task2.1.1\obj\Debug\net10.0\task2.1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.ПРАКТИКА программирование\Module 2\task2.1.1\task2.1.1\obj\Debug\net10.0\task2.1.1.AssemblyInfoInputs.cache
+D:\.ПРАКТИКА программирование\Module 2\task2.1.1\task2.1.1\obj\Debug\net10.0\task2.1.1.AssemblyInfo.cs
+D:\.ПРАКТИКА программирование\Module 2\task2.1.1\task2.1.1\obj\Debug\net10.0\task2.1.1.csproj.CoreCompileInputs.cache
+D:\.ПРАКТИКА программирование\Module 2\task2.1.1\task2.1.1\obj\Debug\net10.0\task2.1.1.dll
+D:\.ПРАКТИКА программирование\Module 2\task2.1.1\task2.1.1\obj\Debug\net10.0\refint\task2.1.1.dll
+D:\.ПРАКТИКА программирование\Module 2\task2.1.1\task2.1.1\obj\Debug\net10.0\task2.1.1.pdb
+D:\.ПРАКТИКА программирование\Module 2\task2.1.1\task2.1.1\obj\Debug\net10.0\task2.1.1.genruntimeconfig.cache
+D:\.ПРАКТИКА программирование\Module 2\task2.1.1\task2.1.1\obj\Debug\net10.0\ref\task2.1.1.dll
+D:\.ПРАКТИКА программирование\Module 2\task2.1.1\task2.1.1\obj\Debug\net10.0\task2.1.1.csproj.Up2Date
