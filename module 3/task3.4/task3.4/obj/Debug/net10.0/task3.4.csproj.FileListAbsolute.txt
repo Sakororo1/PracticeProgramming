@@ -1,0 +1,15 @@
+D:\.ПРАКТИКА программирование\Module 3\task3.4\task3.4\bin\Debug\net10.0\task3.4.exe
+D:\.ПРАКТИКА программирование\Module 3\task3.4\task3.4\bin\Debug\net10.0\task3.4.deps.json
+D:\.ПРАКТИКА программирование\Module 3\task3.4\task3.4\bin\Debug\net10.0\task3.4.runtimeconfig.json
+D:\.ПРАКТИКА программирование\Module 3\task3.4\task3.4\bin\Debug\net10.0\task3.4.dll
+D:\.ПРАКТИКА программирование\Module 3\task3.4\task3.4\bin\Debug\net10.0\task3.4.pdb
+D:\.ПРАКТИКА программирование\Module 3\task3.4\task3.4\obj\Debug\net10.0\task3.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\.ПРАКТИКА программирование\Module 3\task3.4\task3.4\obj\Debug\net10.0\task3.4.AssemblyInfoInputs.cache
+D:\.ПРАКТИКА программирование\Module 3\task3.4\task3.4\obj\Debug\net10.0\task3.4.AssemblyInfo.cs
+D:\.ПРАКТИКА программирование\Module 3\task3.4\task3.4\obj\Debug\net10.0\task3.4.csproj.CoreCompileInputs.cache
+D:\.ПРАКТИКА программирование\Module 3\task3.4\task3.4\obj\Debug\net10.0\task3.4.dll
+D:\.ПРАКТИКА программирование\Module 3\task3.4\task3.4\obj\Debug\net10.0\refint\task3.4.dll
+D:\.ПРАКТИКА программирование\Module 3\task3.4\task3.4\obj\Debug\net10.0\task3.4.pdb
+D:\.ПРАКТИКА программирование\Module 3\task3.4\task3.4\obj\Debug\net10.0\task3.4.genruntimeconfig.cache
+D:\.ПРАКТИКА программирование\Module 3\task3.4\task3.4\obj\Debug\net10.0\ref\task3.4.dll
+D:\.ПРАКТИКА программирование\Module 3\task3.4\task3.4\obj\Debug\net10.0\task3.4.csproj.Up2Date
