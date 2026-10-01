@@ -1,6 +1,4 @@
-﻿using System.Runtime.Serialization;
-using System.Text.RegularExpressions;
-namespace task2_1_1
+﻿namespace task2_1_1
 {
     class Program
     {
