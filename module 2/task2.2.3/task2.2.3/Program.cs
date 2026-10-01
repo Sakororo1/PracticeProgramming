@@ -52,7 +52,7 @@
             public StringArray Merge(StringArray other) //слияние с исключением повторяющихся элементов
             {
                 List<string> unique = new List<string>(); //список уникальных строк
-                //добавляем элементы первого массива
+                //добавление элементов первого массива
                 for (uint i = 0; i < fSize; i++)
                 {
                     if (!unique.Contains(fStrings[i]))
