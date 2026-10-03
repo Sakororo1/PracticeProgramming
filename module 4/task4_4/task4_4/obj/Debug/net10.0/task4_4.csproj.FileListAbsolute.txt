@@ -1,0 +1,15 @@
+D:\.ПРАКТИКА программирование\Module 4\task4_4\task4_4\bin\Debug\net10.0\task4_4.exe
+D:\.ПРАКТИКА программирование\Module 4\task4_4\task4_4\bin\Debug\net10.0\task4_4.deps.json
+D:\.ПРАКТИКА программирование\Module 4\task4_4\task4_4\bin\Debug\net10.0\task4_4.runtimeconfig.json
+D:\.ПРАКТИКА программирование\Module 4\task4_4\task4_4\bin\Debug\net10.0\task4_4.dll
+D:\.ПРАКТИКА программирование\Module 4\task4_4\task4_4\bin\Debug\net10.0\task4_4.pdb
+D:\.ПРАКТИКА программирование\Module 4\task4_4\task4_4\obj\Debug\net10.0\task4_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\.ПРАКТИКА программирование\Module 4\task4_4\task4_4\obj\Debug\net10.0\task4_4.AssemblyInfoInputs.cache
+D:\.ПРАКТИКА программирование\Module 4\task4_4\task4_4\obj\Debug\net10.0\task4_4.AssemblyInfo.cs
+D:\.ПРАКТИКА программирование\Module 4\task4_4\task4_4\obj\Debug\net10.0\task4_4.csproj.CoreCompileInputs.cache
+D:\.ПРАКТИКА программирование\Module 4\task4_4\task4_4\obj\Debug\net10.0\task4_4.dll
+D:\.ПРАКТИКА программирование\Module 4\task4_4\task4_4\obj\Debug\net10.0\refint\task4_4.dll
+D:\.ПРАКТИКА программирование\Module 4\task4_4\task4_4\obj\Debug\net10.0\task4_4.pdb
+D:\.ПРАКТИКА программирование\Module 4\task4_4\task4_4\obj\Debug\net10.0\task4_4.genruntimeconfig.cache
+D:\.ПРАКТИКА программирование\Module 4\task4_4\task4_4\obj\Debug\net10.0\ref\task4_4.dll
+D:\.ПРАКТИКА программирование\Module 4\task4_4\task4_4\obj\Debug\net10.0\task4_4.csproj.Up2Date
