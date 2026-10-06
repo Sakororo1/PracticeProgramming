@@ -1,0 +1,10 @@
+D:\.ПРАКТИКА программирование\Module 5\task5_1\task5_1\bin\Debug\task5_1.exe.config
+D:\.ПРАКТИКА программирование\Module 5\task5_1\task5_1\bin\Debug\task5_1.exe
+D:\.ПРАКТИКА программирование\Module 5\task5_1\task5_1\bin\Debug\task5_1.pdb
+D:\.ПРАКТИКА программирование\Module 5\task5_1\task5_1\obj\Debug\task5_1.csproj.AssemblyReference.cache
+D:\.ПРАКТИКА программирование\Module 5\task5_1\task5_1\obj\Debug\task5_1.Form1.resources
+D:\.ПРАКТИКА программирование\Module 5\task5_1\task5_1\obj\Debug\task5_1.Properties.Resources.resources
+D:\.ПРАКТИКА программирование\Module 5\task5_1\task5_1\obj\Debug\task5_1.csproj.GenerateResource.cache
+D:\.ПРАКТИКА программирование\Module 5\task5_1\task5_1\obj\Debug\task5_1.csproj.CoreCompileInputs.cache
+D:\.ПРАКТИКА программирование\Module 5\task5_1\task5_1\obj\Debug\task5_1.exe
+D:\.ПРАКТИКА программирование\Module 5\task5_1\task5_1\obj\Debug\task5_1.pdb
