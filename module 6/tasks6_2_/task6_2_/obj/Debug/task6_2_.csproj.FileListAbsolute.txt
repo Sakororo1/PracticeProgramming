@@ -1,0 +1,15 @@
+D:\.ПРАКТИКА программирование\Module 6\task6_2_\task6_2_\bin\Debug\task6_2_.exe.config
+D:\.ПРАКТИКА программирование\Module 6\task6_2_\task6_2_\bin\Debug\task6_2_.exe
+D:\.ПРАКТИКА программирование\Module 6\task6_2_\task6_2_\bin\Debug\task6_2_.pdb
+D:\.ПРАКТИКА программирование\Module 6\task6_2_\task6_2_\obj\Debug\task6_2_.csproj.AssemblyReference.cache
+D:\.ПРАКТИКА программирование\Module 6\task6_2_\task6_2_\obj\Debug\MainWindow.g.cs
+D:\.ПРАКТИКА программирование\Module 6\task6_2_\task6_2_\obj\Debug\App.g.cs
+D:\.ПРАКТИКА программирование\Module 6\task6_2_\task6_2_\obj\Debug\task6_2__MarkupCompile.cache
+D:\.ПРАКТИКА программирование\Module 6\task6_2_\task6_2_\obj\Debug\task6_2__MarkupCompile.lref
+D:\.ПРАКТИКА программирование\Module 6\task6_2_\task6_2_\obj\Debug\MainWindow.baml
+D:\.ПРАКТИКА программирование\Module 6\task6_2_\task6_2_\obj\Debug\task6_2_.g.resources
+D:\.ПРАКТИКА программирование\Module 6\task6_2_\task6_2_\obj\Debug\task6_2_.Properties.Resources.resources
+D:\.ПРАКТИКА программирование\Module 6\task6_2_\task6_2_\obj\Debug\task6_2_.csproj.GenerateResource.cache
+D:\.ПРАКТИКА программирование\Module 6\task6_2_\task6_2_\obj\Debug\task6_2_.csproj.CoreCompileInputs.cache
+D:\.ПРАКТИКА программирование\Module 6\task6_2_\task6_2_\obj\Debug\task6_2_.exe
+D:\.ПРАКТИКА программирование\Module 6\task6_2_\task6_2_\obj\Debug\task6_2_.pdb
