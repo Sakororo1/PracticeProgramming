@@ -1,0 +1,26 @@
+﻿<Window x:Class="task6_3__.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:task6_3__"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded" SizeChanged="Window_SizeChanged" Activated="Window_Activated" Closed="Window_Closed">
+    <Grid>
+        <DataGrid x:Name="dataGrid_books" d:ItemsSource="{d:DesignData Type=AccessText}" AutomationProperties.IsColumnHeader="True" CanUserAddRows="True" CanUserDeleteRows="False" CanUserResizeRows="False" AutoGenerateColumns="False" RenderTransformOrigin="0.5,0.5" Margin="0,50,0,110" SelectionMode="Single">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Номер" Binding="{Binding [0]}"/>
+                <DataGridTextColumn Header="Автор" Binding="{Binding [1]}"/>
+                <DataGridTextColumn Header="Название" Binding="{Binding [2]}"/>
+                <DataGridTextColumn Header="Количество" Binding="{Binding [3]}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Перейти к аренде книг" HorizontalAlignment="Left" Margin="10,354,0,0" VerticalAlignment="Top" Height="23" Width="152" Click="Button_Click"/>
+        <TextBox x:Name="Renter_Name" HorizontalAlignment="Left" Margin="532,355,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Имя читателя:" HorizontalAlignment="Left" Margin="548,329,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Button_Rent" Content="Арендовать выбранную книгу" HorizontalAlignment="Left" Margin="497,378,0,0" VerticalAlignment="Top" Width="190" Click="Button_Rent_Click"/>
+        <TextBox x:Name="TextBox_Search" HorizontalAlignment="Left" Margin="293,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+
+</Window>

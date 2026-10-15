@@ -1,0 +1,20 @@
+﻿<Window x:Class="task6_3__.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:task6_3__"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800" Loaded="Window_Loaded" Activated="Window_Activated" Closed="Window_Closed">
+    <Grid>
+        <DataGrid x:Name="DataGrid_Rent" d:ItemsSource="{d:SampleData ItemCount=5}" AutoGenerateColumns="False" Grid.ColumnSpan="2" Margin="0,0,0,200" SelectionMode="Single" MouseDoubleClick="DataGrid_Rent_MouseDoubleClick">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Номер" Binding="{Binding [0]}"/>
+                <DataGridTextColumn Header="Имя читателя" Binding="{Binding [1]}"/>
+                <DataGridTextColumn Header="Номер книги" Binding="{Binding [2]}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="ButtonReturn" Content="Вернуться к книгам" HorizontalAlignment="Left" Margin="27,374,0,0" VerticalAlignment="Top" Height="31" Width="154" Click="ButtonReturn_Click"/>
+        <Button x:Name="Button_ReturnRent" Content="Вернуть книгу выбранного читателя" HorizontalAlignment="Left" Margin="27,283,0,0" VerticalAlignment="Top" Height="31" Width="223" Click="Button_ReturnRent_Click"/>
+    </Grid>
+</Window>
