@@ -1,0 +1,37 @@
+﻿<Window x:Class="task6_1_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="450" Width="800"
+        Loaded="Window_Loaded"
+        SizeChanged="Window_SizeChanged">
+    <Grid>
+        <DataGrid x:Name="dataGrid"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  CanUserDeleteRows="False"
+                  SelectionMode="Single"
+                  SelectionUnit="FullRow"
+                  HorizontalAlignment="Left" VerticalAlignment="Top"
+                  Width="515" Height="400"
+                  CellEditEnding="dataGrid_CellEditEnding">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Табельный номер" Binding="{Binding [0]}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Имя"             Binding="{Binding [1]}"/>
+                <DataGridTextColumn Header="Должность"       Binding="{Binding [2]}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <TextBox x:Name="textBox_name"      Width="150" Margin="564,37,0,0"
+                 HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_job_title" Width="150" Margin="564,87,0,0"
+                 HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button  x:Name="button_add"    Content="Добавить" Width="150" Margin="564,124,0,0"
+                 HorizontalAlignment="Left" VerticalAlignment="Top"
+                 Click="button_add_Click"/>
+        <Button  x:Name="button_delete" Content="Удалить" Width="150" Margin="564,180,0,0"
+                 HorizontalAlignment="Left" VerticalAlignment="Top"
+                 Click="button_delete_Click"/>
+        <Label Content="Имя сотрудника:" HorizontalAlignment="Left" Margin="564,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Должность сотрудника:" HorizontalAlignment="Left" Margin="564,60,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
