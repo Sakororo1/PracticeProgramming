@@ -219,7 +219,7 @@ namespace task6_4
             get { return w.Finances; }
         }
         private string _newName = ""; //название
-        public string NewName //свойство для привязки к TextBox
+        public string NewName //свойство для названия
         {
             get { return _newName; }
             set
@@ -297,7 +297,7 @@ namespace task6_4
         {
             w.UpdateFinance(col, row, value);
         }
-        public void SetType(int row, string displayValue) //сохранить правку из ComboBox-ячейки
+        public void SetType(int row, string displayValue) //изменить тип
         {
             if (row < 0 || row >= w.Finances.Count) return;
             bool new_type = displayValue == "Доход";
@@ -310,7 +310,7 @@ namespace task6_4
         public event PropertyChangedEventHandler PropertyChanged;
         public void OnPropertyChanged([CallerMemberName] string prop = "")
         {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(prop)); //сообщаем какое свойство
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(prop));
         }
     }
     public partial class MainWindow : Window     
