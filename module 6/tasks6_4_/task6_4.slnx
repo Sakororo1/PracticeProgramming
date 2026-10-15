@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="task6_4/task6_4.csproj" Id="df61fdf6-813f-4932-82ba-d7770264441a">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
