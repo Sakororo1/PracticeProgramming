@@ -1,0 +1,38 @@
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\bin\Debug\net8.0-windows\CTAA.exe
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\bin\Debug\net8.0-windows\CTAA.deps.json
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\bin\Debug\net8.0-windows\CTAA.runtimeconfig.json
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\bin\Debug\net8.0-windows\CTAA.dll
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\bin\Debug\net8.0-windows\CTAA.pdb
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.csproj.AssemblyReference.cache
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.csproj.GenerateResource.cache
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.AssemblyInfoInputs.cache
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.AssemblyInfo.cs
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.csproj.CoreCompileInputs.cache
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.csproj.Up2Date
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.dll
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\refint\CTAA.dll
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.pdb
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.genruntimeconfig.cache
+D:\Лабы и пр\Курсовая ОАиП\CTAA\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\ref\CTAA.dll
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.csproj.AssemblyReference.cache
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.csproj.GenerateResource.cache
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.GeneratedMSBuildEditorConfig.editorconfig
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.AssemblyInfoInputs.cache
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.AssemblyInfo.cs
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.csproj.CoreCompileInputs.cache
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.dll
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\refint\CTAA.dll
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.pdb
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\bin\Debug\net8.0-windows\CTAA.exe
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\bin\Debug\net8.0-windows\CTAA.deps.json
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\bin\Debug\net8.0-windows\CTAA.runtimeconfig.json
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\bin\Debug\net8.0-windows\CTAA.dll
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\bin\Debug\net8.0-windows\CTAA.pdb
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.csproj.Up2Date
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\CTAA.genruntimeconfig.cache
+D:\.ПРАКТИКА программирование\Module 7\CTAA\WinFormsApp1\obj\Debug\net8.0-windows\ref\CTAA.dll

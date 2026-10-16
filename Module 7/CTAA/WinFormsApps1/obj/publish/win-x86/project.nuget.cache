@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "gFjS7SFpzf4=",
+  "success": false,
+  "projectFilePath": "D:\\Лабы и пр\\Курсовая ОАиП\\CTAA\\CTAA\\WinFormsApp1\\CTAA.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.\r\n  Произошла ошибка при отправке запроса.\r\n  Невозможно разрешить удаленное имя: 'api.nuget.org'",
+      "projectPath": "D:\\Лабы и пр\\Курсовая ОАиП\\CTAA\\CTAA\\WinFormsApp1\\CTAA.csproj",
+      "filePath": "D:\\Лабы и пр\\Курсовая ОАиП\\CTAA\\CTAA\\WinFormsApp1\\CTAA.csproj",
+      "libraryId": "Microsoft.NETCore.App.Runtime.win-x86",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.\r\n  Произошла ошибка при отправке запроса.\r\n  Невозможно разрешить удаленное имя: 'api.nuget.org'",
+      "projectPath": "D:\\Лабы и пр\\Курсовая ОАиП\\CTAA\\CTAA\\WinFormsApp1\\CTAA.csproj",
+      "filePath": "D:\\Лабы и пр\\Курсовая ОАиП\\CTAA\\CTAA\\WinFormsApp1\\CTAA.csproj",
+      "libraryId": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.\r\n  Произошла ошибка при отправке запроса.\r\n  Невозможно разрешить удаленное имя: 'api.nuget.org'",
+      "projectPath": "D:\\Лабы и пр\\Курсовая ОАиП\\CTAA\\CTAA\\WinFormsApp1\\CTAA.csproj",
+      "filePath": "D:\\Лабы и пр\\Курсовая ОАиП\\CTAA\\CTAA\\WinFormsApp1\\CTAA.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.win-x86",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.",
+      "projectPath": "D:\\Лабы и пр\\Курсовая ОАиП\\CTAA\\CTAA\\WinFormsApp1\\CTAA.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Лабы и пр\\Курсовая ОАиП\\CTAA\\CTAA\\WinFormsApp1\\CTAA.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
