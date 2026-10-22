@@ -1,0 +1,15 @@
+D:\.ПРАКТИКА программирование\Модуль 9\task9_2\task9_2\bin\Debug\task9_2.exe.config
+D:\.ПРАКТИКА программирование\Модуль 9\task9_2\task9_2\bin\Debug\task9_2.exe
+D:\.ПРАКТИКА программирование\Модуль 9\task9_2\task9_2\bin\Debug\task9_2.pdb
+D:\.ПРАКТИКА программирование\Модуль 9\task9_2\task9_2\obj\Debug\task9_2.csproj.AssemblyReference.cache
+D:\.ПРАКТИКА программирование\Модуль 9\task9_2\task9_2\obj\Debug\MainWindow.g.cs
+D:\.ПРАКТИКА программирование\Модуль 9\task9_2\task9_2\obj\Debug\App.g.cs
+D:\.ПРАКТИКА программирование\Модуль 9\task9_2\task9_2\obj\Debug\task9_2_MarkupCompile.cache
+D:\.ПРАКТИКА программирование\Модуль 9\task9_2\task9_2\obj\Debug\task9_2_MarkupCompile.lref
+D:\.ПРАКТИКА программирование\Модуль 9\task9_2\task9_2\obj\Debug\MainWindow.baml
+D:\.ПРАКТИКА программирование\Модуль 9\task9_2\task9_2\obj\Debug\task9_2.g.resources
+D:\.ПРАКТИКА программирование\Модуль 9\task9_2\task9_2\obj\Debug\task9_2.Properties.Resources.resources
+D:\.ПРАКТИКА программирование\Модуль 9\task9_2\task9_2\obj\Debug\task9_2.csproj.GenerateResource.cache
+D:\.ПРАКТИКА программирование\Модуль 9\task9_2\task9_2\obj\Debug\task9_2.csproj.CoreCompileInputs.cache
+D:\.ПРАКТИКА программирование\Модуль 9\task9_2\task9_2\obj\Debug\task9_2.exe
+D:\.ПРАКТИКА программирование\Модуль 9\task9_2\task9_2\obj\Debug\task9_2.pdb

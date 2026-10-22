@@ -1,0 +1,42 @@
+﻿<Window x:Class="task9_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:task9_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid Name="DataGridTasks" HorizontalAlignment="Left" Height="209" Margin="416,8,0,0" VerticalAlignment="Top" Width="384" AutoGenerateColumns="False" CellEditEnding="DataGrid_CellEditEnding" SelectionMode="Single">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Номер" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Имя" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Кому назначена" Binding="{Binding Employee_id}"/>
+                <DataGridTextColumn Header="Прогресс" Binding="{Binding Progress}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid Name="DataGridProjects" HorizontalAlignment="Left" Height="207" Margin="10,10,0,0" VerticalAlignment="Top" Width="385" AutoGenerateColumns="False" CellEditEnding="DataGrid_CellEditEnding" SelectionMode="Single">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Номер" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Название" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Статус" Binding="{Binding Status}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid Name="DataGridEmployees" HorizontalAlignment="Left" Height="202" Margin="10,222,0,0" VerticalAlignment="Top" Width="390" AutoGenerateColumns="False" CellEditEnding="DataGrid_CellEditEnding" SelectionMode="Single">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Номер" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="ФИО" Binding="{Binding Name}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <RadioButton x:Name="Radio_P" Content="Работа с проектами" HorizontalAlignment="Left" Margin="423,271,0,0" VerticalAlignment="Top" Checked="Radio_P_Checked" />
+        <RadioButton x:Name="Radio_E" Content="Работа с сотрудниками" HorizontalAlignment="Left" Margin="420,251,0,0" VerticalAlignment="Top" Checked="Radio_E_Checked"/>
+        <RadioButton x:Name="Radio_T" Content="Работа с задачами" HorizontalAlignment="Left" Margin="420,291,0,0" VerticalAlignment="Top" Checked="Radio_T_Checked"/>
+        <TextBox x:Name="Employee_Name" HorizontalAlignment="Left" Height="24" Margin="423,323,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="133"/>
+        <TextBox x:Name="Project_Name" HorizontalAlignment="Left" Height="24" Margin="423,323,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="133" Visibility="Collapsed"/>
+        <TextBox x:Name="Task_Name" HorizontalAlignment="Left" Height="24" Margin="423,323,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="133" Visibility="Collapsed"/>
+        <Button x:Name="Button_add" Content="Добавить" HorizontalAlignment="Left" Height="26" Margin="423,368,0,0" VerticalAlignment="Top" Width="129" Click="Button_add_Click"/>
+        <Button x:Name="Button_doc" Content="Составить отчёт" HorizontalAlignment="Left" Margin="635,323,0,0" VerticalAlignment="Top" Width="113" Click="Button_doc_Click"/>
+        <Button x:Name="button_delete" Content="Удалить выбранное" HorizontalAlignment="Left" Margin="608,381,0,0" VerticalAlignment="Top" Click="button_delete_Click" Width="122"/>
+
+    </Grid>
+</Window>
