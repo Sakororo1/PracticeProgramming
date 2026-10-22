@@ -1,0 +1,45 @@
+﻿<Window x:Class="task9_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:task9_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="520" Width="920" Loaded="Window_Loaded">
+    <Grid>
+        <TextBlock Text="Название:" VerticalAlignment="Top" HorizontalAlignment="Left"
+                   Margin="12,12,0,0"/>
+        <TextBox x:Name="Task_Name" Width="180" Height="24" Text=""
+                 VerticalAlignment="Top" HorizontalAlignment="Left"
+                 Margin="79,10,0,0"/>
+
+        <TextBlock Text="Приоритет:" VerticalAlignment="Top" HorizontalAlignment="Left"
+                   Margin="271,12,0,0"/>
+        <ComboBox x:Name="Task_Priority" Width="120" Height="24" SelectedIndex="1"
+                  VerticalAlignment="Top" HorizontalAlignment="Left"
+                  Margin="352,10,0,0">
+            <ComboBoxItem>Низкий</ComboBoxItem>
+            <ComboBoxItem>Средний</ComboBoxItem>
+            <ComboBoxItem>Высокий</ComboBoxItem>
+        </ComboBox>
+        <TextBlock Text="Срок:" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="483,12,0,0"/>
+        <DatePicker x:Name="Task_DueDate" Width="140" Height="24" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="530,10,0,0"/>
+        <Button x:Name="Button_add" Content="Добавить" Width="100" Height="26" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="700,9,0,0" Click="Button_add_Click"/>
+        <DataGrid Name="DataGridTasks" Margin="8,48,8,72" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" AutoGenerateColumns="False" CellEditEnding="DataGrid_CellEditEnding">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Номер" Binding="{Binding Id}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Название" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Приоритет" Binding="{Binding Priority}"/>
+                <DataGridTextColumn Header="Срок" Binding="{Binding DueDate, StringFormat=dd.MM.yyyy HH:mm}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Прогресс" Binding="{Binding Progress}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="button_done" Content="Выполнить" Width="160" Height="26" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="12,0,0,32" Click="button_done_Click"/>
+        <Button x:Name="button_delete" Content="Удалить выбранное" Width="140" Height="26" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="193,0,0,33" Click="button_delete_Click"/>
+        <TextBlock Text="Новый срок:" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="352,0,0,37"/>
+        <DatePicker x:Name="New_DueDate" Width="140" Height="24" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="435,0,0,32"/>
+        <Button x:Name="button_changeDate" Content="Изменить срок" Width="120" Height="26"
+                VerticalAlignment="Bottom" HorizontalAlignment="Left"
+                Margin="580,0,0,36" Click="button_changeDate_Click"/>
+    </Grid>
+</Window>
